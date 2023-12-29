@@ -74,6 +74,10 @@ export default defineUserConfig({
                     //     link: '/user/userTest.md'
                     // }
                 ]
+            },
+            {
+                text: 'Windows相关',
+                link: '/windows/windowsRelated.md',
             }
         ],
         notFound: ['页面找不到了噢~'],
