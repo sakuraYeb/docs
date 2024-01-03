@@ -1,1 +1,0 @@
-import{_ as t,o as a,c,a as e,b as o}from"./app-LHqbhNeF.js";const r={},s=e("h1",{id:"前言",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#前言","aria-hidden":"true"},"#"),o(" 前言")],-1),n=e("ul",null,[e("li",null,"做个记录 日常记录")],-1),_=[s,n];function l(d,i){return a(),c("div",null,_)}const f=t(r,[["render",l],["__file","preface.html.vue"]]);export{f as default};
