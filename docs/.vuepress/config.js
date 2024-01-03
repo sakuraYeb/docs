@@ -1,6 +1,6 @@
 import {defaultTheme, defineUserConfig} from 'vuepress'
 import {searchPlugin} from '@vuepress/plugin-search'
-工具地址
+
 export default defineUserConfig({
     base: '/docs/',
     lang: 'zh-CN',
