@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-944fdffe","path":"/preface/preface.html","title":"前言","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704275170000,"contributors":[{"name":"淮竹","email":"sakuraYeb@163.com","commits":1}]},"filePathRelative":"preface/preface.md"}');export{e as data};
