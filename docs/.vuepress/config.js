@@ -51,7 +51,7 @@ export default defineUserConfig({
             },
             {
                 text: '开发工具',
-                link: '/tool/address.md'
+                link: 'develop/tool/address.md'
             },
             {
                 text: '开发环境',
