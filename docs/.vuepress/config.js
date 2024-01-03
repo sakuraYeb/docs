@@ -1,6 +1,6 @@
 import {defaultTheme, defineUserConfig} from 'vuepress'
 import {searchPlugin} from '@vuepress/plugin-search'
-
+工具地址
 export default defineUserConfig({
     base: '/docs/',
     lang: 'zh-CN',
@@ -50,29 +50,18 @@ export default defineUserConfig({
                 link: '/preface/preface.md'
             },
             {
-                text: '服务相关',
-                link: '/linux/git/git.md',
+                text: '开发工具',
+                link: '/tool/address.md'
+            },
+            {
+                text: '开发环境',
+                link: '/develop/git/git.md',
                 collapsible: true,
                 children: [
-                    '/linux/git/git.md',
-                    '/linux/maven/maven.md',
-                    '/linux/nacos/nacos.md',
-                    '/linux/linux-springboot/linux-springboot.md'
-                    // {
-                    //     text: '用户列表',
-                    //     collapsible: true,
-                    //     link: '/user/userList.md'
-                    // },
-                    // {
-                    //     text: '用户配置',
-                    //     collapsible: true,
-                    //     link: '/user/userConfig.md'
-                    // },
-                    // {
-                    //     text: '用户测试',
-                    //     collapsible: true,
-                    //     link: '/user/userTest.md'
-                    // }
+                    '/develop/git/git.md',
+                    '/develop/maven/maven.md',
+                    '/develop/nacos/nacos.md',
+                    '/develop/linux-springboot/linux-springboot.md'
                 ]
             },
             {
