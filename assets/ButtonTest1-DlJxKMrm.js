@@ -1,0 +1,1 @@
+import{_ as n,f as l,r as s,o as r,g as u}from"./app-DTHAHgiM.js";const _={__name:"ButtonTest1",setup(c){const e=l(new Date);return(p,t)=>{const o=s("el-calendar");return r(),u(o,{modelValue:e.value,"onUpdate:modelValue":t[0]||(t[0]=a=>e.value=a)},null,8,["modelValue"])}}},d=n(_,[["__file","ButtonTest1.vue"]]);export{d as default};
